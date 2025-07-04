@@ -19,6 +19,7 @@ Using Power BI's dynamic visual capabilities, the dashboard provides an intuitiv
 📌 Key Highlights from the Dashboard:
 
 
+
 ✅ Gender-wise distribution shows a slight skew toward female customers (54.57%).
 
 ✅ Balanced ratio between Active (51.51%) and Inactive (48.49%) customers.
@@ -41,7 +42,9 @@ Using Power BI's dynamic visual capabilities, the dashboard provides an intuitiv
 
 
 
+
  🧠In this Analysis Approach:
+ 
  
 
 ✅ Power BI enables fast, intuitive, and interactive visual storytelling.
@@ -56,7 +59,9 @@ Using Power BI's dynamic visual capabilities, the dashboard provides an intuitiv
 
 
 
+
  🧰 Technologies Stack Used:
+
  
 
 * Power BI Desktop
