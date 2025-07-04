@@ -18,31 +18,51 @@ Using Power BI's dynamic visual capabilities, the dashboard provides an intuitiv
 
 📌 Key Highlights from the Dashboard:
 
+
 ✅ Gender-wise distribution shows a slight skew toward female customers (54.57%).
+
 ✅ Balanced ratio between Active (51.51%) and Inactive (48.49%) customers.
+
 ✅ Majority of users (70.5%) own credit cards, which indicates financial engagement.
+
 🌍 Country-wise split shows France leads (50.14%), followed by Germany and Spain.
+
 📦 Product 1 and Product 2 are the most preferred products among customers.
+
 📊Churn rate currently stands at 20.4%, a critical metric for customer retention.
 
 📉 Churn rate spikes significantly in the 51–60 age group, despite lower population.
+
 💳 Customers with credit scores ≤400 are at the highest churn risk.
+
 💰 High churn seen in accounts with zero balance or 10k–100k balance range.
+
 📐 Interactive dashboard enables slicing by age, balance, credit scores, and more.
 
 
+
  🧠In this Analysis Approach:
+ 
 
 ✅ Power BI enables fast, intuitive, and interactive visual storytelling.
+
 ✅ Dashboards are drillable and dynamic for deep-dive exploration.
+
 ✅ Insights support data-backed decisions for churn mitigation strategies.
+
 ✅ Helps in identifying high-risk segments and customizing engagement accordingly.
+
 ✅ Ideal for marketing, CRM, and data strategy teams to align business actions.
 
 
+
  🧰 Technologies Stack Used:
+ 
 
 * Power BI Desktop
+  
 * Excel/CSV Dataset (10K bank customer records)
+  
 * Data modeling (DAX, calculated columns, relationships)
+  
 * Visuals: Donut charts, bar graphs, line charts,Gauge chart, KPI indicators
