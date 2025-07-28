@@ -71,3 +71,9 @@ Using Power BI's dynamic visual capabilities, the dashboard provides an intuitiv
 * Data modeling (DAX, calculated columns, relationships)
   
 * Visuals: Donut charts, bar graphs, line charts,Gauge chart, KPI indicators
+
+
+
+
+
+Advantages :
