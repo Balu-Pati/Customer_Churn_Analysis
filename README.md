@@ -1,4 +1,5 @@
 # Customer_Churn_Analysis
+<img width="1892" height="991" alt="Screenshot 2025-08-26 140119" src="https://github.com/user-attachments/assets/c1d8b4ef-9dcf-4186-8579-635e171a93f0" />
 
 In this Project , we take Bank Customer Churn dataset and go through the end-to-end process of developing and publishing the Customer Churn Analysis report in Power BI, including the following steps:
 1. Data Connection
